@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud-Service", "AppCloud-Service.csproj", "{5BE54740-9958-4AB3-A4CE-855A6F4C0ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE54740-9958-4AB3-A4CE-855A6F4C0ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE54740-9958-4AB3-A4CE-855A6F4C0ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE54740-9958-4AB3-A4CE-855A6F4C0ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE54740-9958-4AB3-A4CE-855A6F4C0ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441C5AD0-A7F3-431E-91CE-BB34CC165CF4}
+	EndGlobalSection
+EndGlobal
