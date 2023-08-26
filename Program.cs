@@ -17,7 +17,7 @@ namespace AppCloud_Service
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new ServiceMain()
             };
             ServiceBase.Run(ServicesToRun);
         }

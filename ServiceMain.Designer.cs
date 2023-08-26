@@ -1,6 +1,6 @@
 ﻿namespace AppCloud_Service
 {
-    partial class Service1
+    partial class ServiceMain
     {
         /// <summary> 
         /// Variável de designer necessária.

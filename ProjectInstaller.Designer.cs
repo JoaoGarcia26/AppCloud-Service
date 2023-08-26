@@ -40,7 +40,7 @@
             // AppCloudService
             // 
             this.AppCloudService.Description = "Serviço de autenticação App Cloud TSMIT";
-            this.AppCloudService.DisplayName = "App Cloud Tsmit Service";
+            this.AppCloudService.DisplayName = "TSMIT Host Service";
             this.AppCloudService.ServiceName = "AppCloud-Service";
             this.AppCloudService.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
